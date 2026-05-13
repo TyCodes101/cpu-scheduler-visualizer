@@ -2,6 +2,8 @@
 
 A polished React project that visualizes classic CPU scheduling algorithms in a recruiter-friendly way.
 
+**Live demo:** https://tycodes101.github.io/cpu-scheduler-visualizer/
+
 ![CPU Scheduler Visualizer preview](./screenshots/final-home-employer-polish.png)
 
 ## Features
